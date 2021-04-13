@@ -13,3 +13,5 @@
 Mi perfil: **[LinkedIn](https://www.linkedin.com/in/torresmessenzani/) :v:
 
 Mis repositorios, la manera en que programo y demás pueden verse por acá abajo :arrow_down:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Rodrigo009=anuraghazra&show_icons=true&theme=dark)
