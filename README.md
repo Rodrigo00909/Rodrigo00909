@@ -14,4 +14,5 @@ Mi perfil: **[LinkedIn](https://www.linkedin.com/in/torresmessenzani/) :v:
 
 Mis repositorios, la manera en que programo y demás pueden verse por acá abajo :arrow_down:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo009)](https://github.com/anuraghazra/github-readme-stats)
+🚀 Some Tools I Use
+react angular-js vue bootstrap css3 gulp java javascript typescript .NET mongodb mysql redis nodejs spring python nginx cucumber heroku travis aws gcp Docker Kubernetes
