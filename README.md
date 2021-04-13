@@ -2,7 +2,7 @@
 
 # Hola:wave: a todos!
 
-_Sobre mi_
+# _Sobre mi_
 :zap:Soy estudiante de la carrera de :star2:Ingenieria Informática:star2:, próximo a recibirme de su titulo intermedio :mortar_board:Analista Informático:mortar_board: y a su vez soy :computer:Desarrollador Web:computer: 
 
 :ok_hand:Tengo sólida experiencia en una empresa de desarrollo de software (6 meses) por lo cual no me considero trainee. Pero también tengo meses de experiencia como desarrollador autónomo, desarrollando aplicaciones para mi portafolio u otros clientes. Actualmente estoy focalizandome en el stack MERN (Mongo, Express, React, Node) y próximo a enfocarme en NextJS para darle más poder a mis webs.
@@ -11,7 +11,7 @@ _Sobre mi_
 
 :muscle:Pero además poseo conocimientos sólidos en diseño y analisis de aplicaciones, los cuales aprendo de manera exitosa en la facultad.
 
-_Personal_
+# _Personal_
 Mi perfil: **[LinkedIn](https://www.linkedin.com/in/torresmessenzani/) :v:
 
 Mis repositorios, la manera en que programo y demás pueden verse por acá abajo :arrow_down:
