@@ -9,7 +9,7 @@
 ----------------
 
 <img align="right" src="https://github.com/Rodrigo00909/Rodrigo00909/blob/main/giphy.gif" />
-<h2>⚡️ Algunas de mis habilidades</h2>
+<h2>⚡️ Sobre mi</h2>
 <ul>
 <li>🔭 Estoy trabajando en mi portfolio con MERN, pronto subiré los repositorios a GitHub. Primero estoy definiendo su diseño con Figma.</li>
 
