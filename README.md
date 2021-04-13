@@ -6,6 +6,8 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+----------------
+
 <img align="right" src="https://github.com/Rodrigo00909/Rodrigo00909/blob/main/giphy.gif" />
 <h2>⚡️ Algunas de mis habilidades</h2>
 <ul>
