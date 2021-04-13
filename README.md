@@ -1,5 +1,5 @@
 > 👨🏻‍💻 Web Front-end Developer
-<h2>Hola 👋, soy <a href="#">Rodrigo</a></h2>!
+<h2>Hola 👋, soy <a href="#">Rodrigo</a></h2>
 <p>Soy estudiante de <strong>Ingeniería Informática</strong> , próximo a recibirme de su titulo intermedio <strong>Analista Informático</strong> y a su vez soy <strong>Desarrollador Web</strong></p>
 
 <a href="https://www.linkedin.com/in/torresmessenzani/">
