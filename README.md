@@ -1,7 +1,6 @@
 ![](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/giphy.gif)
 
-# Español
-### Hola:wave: a todos!
+# Hola:wave: a todos!
 
 _Sobre mi_
 # :zap:Soy estudiante de la carrera de :star2:Ingenieria Informática:star2:, próximo a recibirme de su titulo intermedio :mortar_board:Analista Informático:mortar_board: y a su vez soy :computer:Desarrollador Web:computer: 
