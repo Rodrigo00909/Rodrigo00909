@@ -11,11 +11,17 @@
 <img align="right" src="https://github.com/Rodrigo00909/Rodrigo00909/blob/main/giphy.gif" />
 <h2>⚡️ Sobre mi</h2>
 <ul>
-<li>🔭 Estoy trabajando en mi portfolio con MERN, pronto subiré los repositorios a GitHub. Primero estoy definiendo su diseño con Figma.</li>
+<li>🔭 Estoy trabajando en mi portfolio con MERN</li>
 
-<li>📝 Poseo conocimientos en varias tecnologías web las cuales detallaré con bonitos iconos más abajo, pero actualmente estoy estudiando NextJs para potenciar mis webs, y React Native para empezar mi carrera en programación Mobile</li>
-<li>🧐 A su vez, junto a la facultad, estoy estudiando la metodología <strong>Gestión de proyectos o Project Management</strong> en un instituto. Por eso poseo conocimientos tanto técnicos como gerenciales.</li>
-<li>👨‍💻 Para finalizar, todos mis proyectos, la forma en que programo, la pueden ver en mis repositorios. Me gusta combinar mi creatividad y diseño con mi lógica.</li>
+<li>📝 Estoy estudiando NextJs para potenciar mis webs, y React Native para empezar mi carrera en programación Mobile</li>
+
+<li>:smile: Poseo conocimientos tanto técnicos como gerenciales.</li>
+
+<li>🧐 A su vez, junto a la facultad, estoy estudiando la metodología <strong>Project Management</strong>.</li>
+
+<li>:muscle: Me gusta combinar mi creatividad y diseño con mi lógica.</li>
+
+<li>👨‍💻 Para finalizar, todos mis proyectos, la forma en que programo, la pueden ver en mis repositorios.</li>
 </ul>
 
 ----------------
