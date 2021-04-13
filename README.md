@@ -39,4 +39,4 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo00909&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo00909&hide=stars,issues&theme=graywhite)</img>
+<img align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo00909&hide=stars,issues&theme=default)</img>
