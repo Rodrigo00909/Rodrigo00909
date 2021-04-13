@@ -39,4 +39,4 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo00909&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right">[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigo00909)](https://github.com/rodrigo00909/github-readme-stats)</img>
+<img align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo00909&show_icons=true&theme=radical)</img>
