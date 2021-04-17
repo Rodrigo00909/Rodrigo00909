@@ -6,10 +6,10 @@
 <p>Soy estudiante de <strong>Ingeniería Informática</strong> , próximo a recibirme de su titulo intermedio <strong>Analista Informático</strong> y a su vez soy <strong>Desarrollador Web</strong></p>
 
 <a href="https://www.linkedin.com/in/torresmessenzani/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
+![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png) ![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
 
 <h2>⚡️ Sobre mi</h2>
 <ul>
