@@ -1,4 +1,7 @@
 > 👨🏻‍💻 Web Front-end Developer
+
+![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
+
 <h2>Hola 👋, soy <a href="#">Rodrigo</a></h2>
 <p>Soy estudiante de <strong>Ingeniería Informática</strong> , próximo a recibirme de su titulo intermedio <strong>Analista Informático</strong> y a su vez soy <strong>Desarrollador Web</strong></p>
 
@@ -6,9 +9,8 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-----------------
+![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
 
-<img align="right" src="https://github.com/Rodrigo00909/Rodrigo00909/blob/main/giphy.gif" />
 <h2>⚡️ Sobre mi</h2>
 <ul>
 <li>🔭 Estoy trabajando en mi portfolio con MERN</li>
@@ -24,7 +26,7 @@
 <li>👨‍💻 Para finalizar, todos mis proyectos, la forma en que programo, la pueden ver en mis repositorios.</li>
 </ul>
 
-----------------
+![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
 
 <h2>🚀 Lenguajes y frameworks en los cuales tengo conocimientos</h2>
 <p align="left">
@@ -44,5 +46,9 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
 
+![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo00909&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo00909&hide=stars,issues&theme=default)</img>
+
+![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
