@@ -1,7 +1,5 @@
 > 👨🏻‍💻 Web Front-end Developer
 
-![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
-
 <h2>Hola 👋, soy <a href="#">Rodrigo</a></h2>
 <p>Soy estudiante de <strong>Ingeniería Informática</strong> , próximo a recibirme de su titulo intermedio <strong>Analista Informático</strong> y a su vez soy <strong>Desarrollador Web</strong></p>
 
@@ -50,4 +48,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo00909&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo00909&hide=stars,issues&theme=default)</img>
 
-![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
