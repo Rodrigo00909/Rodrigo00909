@@ -23,7 +23,6 @@
 <li>👨‍💻 Para finalizar, todos mis proyectos, la forma en que programo, la pueden ver en mis repositorios.</li>
 </ul>
 
-![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
 
 <h2>🚀 Lenguajes y frameworks en los cuales tengo conocimientos</h2>
 <p align="left">
@@ -43,7 +42,6 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
 
-![10](https://github.com/Rodrigo00909/Rodrigo00909/blob/main/pht.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo00909&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo00909&hide=stars,issues&theme=default)</img>
