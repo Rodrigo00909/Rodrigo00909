@@ -1,30 +1,30 @@
 > 👨🏻‍💻 Web Front-end Developer
 
-<h2>Hola 👋, soy <a href="#">Rodrigo</a></h2>
-<p>Soy estudiante de <strong>Ingeniería Informática</strong> , próximo a recibirme de su titulo intermedio <strong>Analista Informático</strong> y a su vez soy <strong>Desarrollador Web</strong></p>
+<h2>Hello 👋, i am <a href="#">Rodrigo</a></h2>
+<p>I am <strong>IT Studen</strong>, and soon <strong>Systems Analyst</strong> & i am also <strong>Web Developer</strong></p>
 
 <a href="https://www.linkedin.com/in/torresmessenzani/">
   <img align="left" alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
-<h2>⚡️ Sobre mi</h2>
+<h2>⚡️ About me</h2>
 <ul>
-<li>🔭 Estoy trabajando en mi portfolio con MERN</li>
+<li>🔭 I am working in my Porfolio with the <strong>MERN</strong> stack</li>
 
-<li>📝 Estoy estudiando NextJs para potenciar mis webs, y React Native para empezar mi carrera en programación Mobile</li>
+<li>📝 I'm currently studying <strong>NextJS</strong> to boost my websites, and <strong>React Native</strong> to start my career in Mobile programming</li>
 
-<li>:smile: Poseo conocimientos tanto técnicos como gerenciales.</li>
+<li>:smile: I have both technical and managerial knowledge.</li>
 
-<li>🧐 A su vez, junto a la facultad, estoy estudiando la metodología <strong>Project Management</strong>.</li>
+<li>🧐Study through a diploma the methodology: <strong>Project Management</strong>.</li>
 
-<li>:muscle: Me gusta combinar mi creatividad y diseño con mi lógica.</li>
+<li>:muscle: I love to combine my creativity and design with my logic.</li>
 
-<li>👨‍💻 Para finalizar, todos mis proyectos, la forma en que programo, la pueden ver en mis repositorios.</li>
+<li>👨‍💻 Finally, all my projects, the way I program, can be seen in my repositories.</li>
 </ul>
 
 
-<h2>🚀 Lenguajes y frameworks en los cuales tengo conocimientos</h2>
+<h2>🚀 Languages and frameworks that I know</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
