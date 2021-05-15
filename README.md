@@ -1,4 +1,4 @@
-> 👨🏻‍💻 Web Front-end Developer
+> 👨🏻‍💻 Web Developer
 
 <h2>Hello 👋, i am <a href="#">Rodrigo</a></h2>
 <p>I am <strong>IT Student</strong>, and soon <strong>Systems Analyst</strong> & i am also <strong>Web Developer</strong></p>
