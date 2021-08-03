@@ -1,10 +1,8 @@
 > 👨🏻‍💻 Web Developer
 
 <div>
-  <div align="left">
     <h2>Hello 👋, i am <a href="#">Rodrigo</a></h2>
     <p>I am <strong>IT Student</strong>, and soon <strong>Systems Analyst</strong> & i am also <strong>Web Developer</strong></p>
-  </div>
   <div align="right">
     <strong>Visit my LinkedIN</strong>
     <a href="https://www.linkedin.com/in/torresmessenzani/">
@@ -12,8 +10,6 @@
     </a> 
   </div>
 </div>
-
-<br>
 
 <h2>⚡️ About me</h2>
 <ul>
