@@ -4,7 +4,7 @@
 <p>I am <strong>IT Student</strong>, and soon <strong>Systems Analyst</strong> & i am also <strong>Web Developer</strong></p>
 
 <a href="https://www.linkedin.com/in/torresmessenzani/">
-  <img align="left" alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Visit my <img align="left" alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
 
