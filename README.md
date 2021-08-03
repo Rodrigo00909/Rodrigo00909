@@ -6,7 +6,7 @@
 <div align="right">
   <strong>Visit my LinkedIN</strong>
   <a href="https://www.linkedin.com/in/torresmessenzani/">
-    <img alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="Rodrigo00909's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a> 
 </div><br>
 
@@ -16,7 +16,7 @@
 
 <li>📝 I'm currently studying & working with <strong>React JS</strong> </li>
 
-<li>😄: I love to combine my creativity and design with my logic.</li>
+<li>😄 I love to combine my creativity and design with my logic.</li>
 
 </ul>
 
