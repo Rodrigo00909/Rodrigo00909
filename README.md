@@ -3,10 +3,12 @@
 <h2>Hello 👋, i am <a href="#">Rodrigo</a></h2>
 <p>I am <strong>IT Student</strong>, and soon <strong>Systems Analyst</strong> & i am also <strong>Web Developer</strong></p>
 
-<strong>Visit my LinkedIN</strong>
-<a href="https://www.linkedin.com/in/torresmessenzani/">
-  <img alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <br>
+<div align="right">
+  <strong>Visit my LinkedIN</strong>
+  <a href="https://www.linkedin.com/in/torresmessenzani/">
+    <img alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a> 
+</div><br>
 
 
 <h2>⚡️ About me</h2>
