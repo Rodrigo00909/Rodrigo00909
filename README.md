@@ -5,7 +5,7 @@
 
 Visit my
 <a href="https://www.linkedin.com/in/torresmessenzani/">
-  <img align="left" alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Rodrigo00909's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
 
