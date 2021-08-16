@@ -36,6 +36,6 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo00909&layout=compact)](https://github.com/rodrigo00909/github-readme-stats)
-<img align="right">![Rodrigo00909 GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo00909&hide=stars,issues&theme=default)</img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo00909&layout=compact)](https://github.com/Rodrigo00909/github-readme-stats)
+<img align="right">![Rodrigo00909 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo00909&hide=stars,issues&theme=default)</img>
 
