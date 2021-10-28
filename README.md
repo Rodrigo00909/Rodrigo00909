@@ -2,7 +2,8 @@
 
 <div>
     <h2>Hello 👋, i am <a href="#">Rodrigo</a></h2>
-    <p>I am <strong>IT Student</strong>, and soon <strong>Systems Analyst</strong> & i am also <strong>Front end Developer</strong></p>
+    <p><strong>Web Developer</strong>, <strong>Commercial IT</strong> and soon <strong>Systems Analyst</strong></p>
+    <p align="center">Eternal Student, Persistent, Creative, Analytical</p>
   <div align="right">
     <strong>Visit my LinkedIN</strong>
     <a href="https://www.linkedin.com/in/torresmessenzani/">
