@@ -3,7 +3,7 @@
 <div>
     <h2>Hello 👋, i am <a href="#">Rodrigo</a></h2>
     <p><strong>Web Developer</strong>, <strong>Commercial IT</strong> and soon <strong>Systems Analyst</strong></p>
-    <p align="center">Eternal Student, Persistent, Creative, Analytical</p>
+    <p>Eternal Student, Persistent, Creative, Analytical</p>
   <div align="right">
     <strong>Visit my LinkedIN</strong>
     <a href="https://www.linkedin.com/in/torresmessenzani/">
