@@ -15,6 +15,7 @@
 <h2>⚡️ About me</h2>
 <ul>
 
+  <li>  Here is mi portfolio: https://rodrigotorres.netlify.app/</li>
 <li>📝 I'm currently studying & working with <strong>React JS</strong> </li>
 
 <li>😄 I love to combine my creativity and design with my logic.</li>
